@@ -13,13 +13,13 @@
 <p align="center">
   <a href="#about-the-project">About The Project</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#example-detections">Example Detections</a>
-  <a href="credits">Credits</a> •
+  <a href="#example-detections">Example Detections</a> •
+  <a href="credits">Credits</a> 
 </p>  
 
 <!---ABOUT--->
 # About The Project
-This project uses object detection to identify four different types of whtie blood cells in rhesus macaque monkeys: monocyte, eosinophil, neutrophil, and lymphocyte white blood cells. It uses YOLOv3 Darknet and can be run through Google Colab.
+This project uses object detection to identify four different types of whtie blood cells in rhesus macaque monkeys: monocyte, eosinophil, neutrophil, and lymphocyte white blood cells. It uses YOLOv3 Darknet and can be run through Google Colab. I have an article on Medium explaining this project in detail here.
 
 <!---HOW TO USE--->
 # How to Use
