@@ -19,7 +19,7 @@
 
 <!---ABOUT--->
 # About The Project
-This project uses object detection to identify four different types of whtie blood cells in rhesus macaque monkeys: monocyte, eosinophil, neutrophil, and lymphocyte white blood cells. It uses YOLOv3 Darknet and can be run through Google Colab. I have an article on Medium explaining this project in detail here.
+This project uses object detection to identify four different types of whtie blood cells in rhesus macaque monkeys: monocyte, eosinophil, neutrophil, and lymphocyte white blood cells. It uses YOLOv3 Darknet and can be run through Google Colab. I have an article on Medium explaining this project in detail [here](https://creativenick.medium.com/using-yolov3-to-identify-white-blood-cells-in-rhesus-macaque-monkeys-d5513b5c41dd).
 
 <!---HOW TO USE--->
 # How to Use
