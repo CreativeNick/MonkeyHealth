@@ -14,7 +14,7 @@
   <a href="#about-the-project">About The Project</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#example-detections">Example Detections</a> •
-  <a href="credits">Credits</a> 
+  <a href="#credits">Credits</a> 
 </p>  
 
 <!---ABOUT--->
